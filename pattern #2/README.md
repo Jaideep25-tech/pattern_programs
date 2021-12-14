@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Pattern 1</h1>
+<h1>Pattern 2</h1>
 
 ![#2](https://user-images.githubusercontent.com/79747022/143487476-e5585254-16f7-48c7-b75f-9831dc2a03b3.jpg)
 
