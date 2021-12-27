@@ -11,4 +11,3 @@
   
 ## Most welcome to the pr for code of this pattern in any other language
 </div>
-
