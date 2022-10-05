@@ -1,3 +1,5 @@
+$include<iostream>
+using namespace std;
 int main()
 {
   int n=6;
@@ -7,9 +9,9 @@ int main()
     k=(i%2!=0)?i+1:i;
     for(j=0;j<k;j++)
     {
-      printf("*");
+      cout<<"*";
     }
-    printf("\n");
+    cout<<endl;
   }
   getch()
   }
